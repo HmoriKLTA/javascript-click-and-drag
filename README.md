@@ -1,0 +1,1 @@
+This project is a simple JavaScript click-and-drag horizontal scroller demo using HTML, CSS, and Bootstrap, featuring a custom background image and interactive item list.
